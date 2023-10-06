@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+.cards {
+	display: flex;
+}
 img {
 	margin: 10px;
 	border: 3px solid #000;
