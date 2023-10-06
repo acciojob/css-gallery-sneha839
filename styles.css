@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .cards {
-	display: flex;
+	display: flex-wrap;
 }
 img {
 	margin: 10px;
